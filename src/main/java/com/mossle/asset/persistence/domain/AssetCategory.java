@@ -14,7 +14,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 /**
- * AssetCategory .
+ * AssetCategory .鹅鹅鹅鹅鹅鹅饿鹅鹅鹅鹅鹅鹅饿吧
  * 
  * @author Lingo
  */
